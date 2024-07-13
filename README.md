@@ -50,6 +50,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ### Contact
 For any questions or inquiries, please contact [yourname@example.com](mailto:yourname@example.com).
 
----
-
-Feel free to customize further based on your specific project details and preferences.
