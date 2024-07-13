@@ -22,7 +22,7 @@ To get started with this project, follow the steps below:
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/farihashk/AI-Generated-Image-Detection.git
-   cd ai-detection-model
+   cd AI-Generated-Image-Detection
    ```
 
 2. **Install Dependencies:**
@@ -32,14 +32,10 @@ To get started with this project, follow the steps below:
    ```
 
 3. **Run the Model:**
-   Use the provided scripts to train and test the model:
-   ```bash
-   python train_model.py
-   python test_model.py
-   ```
+   Run the model in Jupyter Notebook or Google Colab
 
 ### Results
-The AI detection model has demonstrated impressive performance in distinguishing between synthetic and real images, with a significant improvement in processing speed and accuracy. Detailed results and performance metrics can be found in the [Results](results/) directory.
+The AI detection model has demonstrated impressive performance in distinguishing between synthetic and real images, with a significant improvement in processing speed and accuracy. 
 
 ### Contributing
 We welcome contributions to this project. If you have suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
