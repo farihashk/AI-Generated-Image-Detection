@@ -48,5 +48,5 @@ We welcome contributions to this project. If you have suggestions, bug reports, 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ### Contact
-For any questions or inquiries, please contact [yourname@example.com](mailto:yourname@example.com).
+For any questions or inquiries, please contact fariha.shaikh02@gmail.com.
 
